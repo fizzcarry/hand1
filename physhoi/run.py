@@ -251,3 +251,4 @@ if __name__ == '__main__':
     ## teste
     main()
     main()
+    main()
